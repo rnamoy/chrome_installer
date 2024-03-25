@@ -119,10 +119,10 @@ def humansize(nbytes):
 
 
 def save_md() -> None:
-    index_url = "https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#"
+    index_url = "https://github.com/rnus699/chrome_installer?tab=readme-ov-file#"
     with open('readme.md', 'w') as f:
         f.write(f'# Google Chrome 离线安装包（请使用 7-Zip 解压）\n')
-        f.write(f'稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>\n\n')
+        f.write(f'稳定版存档：<https://github.com/rnus699/chrome_installer/releases>\n\n')
         f.write(f'最后检测更新时间\n')
         now = datetime.now(timezone(timedelta(hours=-4)))
         now_str = now.strftime("%Y-%m-%d %H:%M:%S (UTC-4)")
