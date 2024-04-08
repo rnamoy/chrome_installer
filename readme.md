@@ -1,19 +1,19 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-稳定版存档：<https://github.com/rnus699/chrome_installer/releases>
+稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
 2024-04-08 02:13:54 (UTC-4)
 
 
 ## 目录
-* [win stable x86](https://github.com/rnus699/chrome_installer?tab=readme-ov-file#win-stable-x86)
-* [win stable x64](https://github.com/rnus699/chrome_installer?tab=readme-ov-file#win-stable-x64)
-* [win beta x86](https://github.com/rnus699/chrome_installer?tab=readme-ov-file#win-beta-x86)
-* [win beta x64](https://github.com/rnus699/chrome_installer?tab=readme-ov-file#win-beta-x64)
-* [win dev x86](https://github.com/rnus699/chrome_installer?tab=readme-ov-file#win-dev-x86)
-* [win dev x64](https://github.com/rnus699/chrome_installer?tab=readme-ov-file#win-dev-x64)
-* [win canary x86](https://github.com/rnus699/chrome_installer?tab=readme-ov-file#win-canary-x86)
-* [win canary x64](https://github.com/rnus699/chrome_installer?tab=readme-ov-file#win-canary-x64)
+* [win stable x86](https://github.com/rnamoy/chrome_installer?tab=readme-ov-file#win-stable-x86)
+* [win stable x64](https://github.com/rnamoy/chrome_installer?tab=readme-ov-file#win-stable-x64)
+* [win beta x86](https://github.com/rnamoy/chrome_installer?tab=readme-ov-file#win-beta-x86)
+* [win beta x64](https://github.com/rnamoy/chrome_installer?tab=readme-ov-file#win-beta-x64)
+* [win dev x86](https://github.com/rnamoy/chrome_installer?tab=readme-ov-file#win-dev-x86)
+* [win dev x64](https://github.com/rnamoy/chrome_installer?tab=readme-ov-file#win-dev-x64)
+* [win canary x86](https://github.com/rnamoy/chrome_installer?tab=readme-ov-file#win-canary-x86)
+* [win canary x64](https://github.com/rnamoy/chrome_installer?tab=readme-ov-file#win-canary-x64)
 
 ## win stable x86
 **最新版本**：123.0.6312.106  
