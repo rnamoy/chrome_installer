@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "127.0.6516.1",
-        "size": 150547504,
-        "sha1": "1d7dcb4b4637426424206b5195c44a20d3504676",
-        "sha256": "4fcd073aa1836c3cfcbb73d00847e2cc0ec0a6fc3c577a2ef9ddfa3115ecf6c2",
+        "version": "127.0.6517.0",
+        "size": 114914352,
+        "sha1": "c40c463da594f281f07ace0a2fd395143e331e39",
+        "sha256": "af3808168fad7dbbd6f3fa37c69f8d06866fc181211ad53b83cbadcba88490ec",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/o2fhxdqyh73hnp7bo2oxd5vb54_127.0.6516.1/127.0.6516.1_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/o2fhxdqyh73hnp7bo2oxd5vb54_127.0.6516.1/127.0.6516.1_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/o2fhxdqyh73hnp7bo2oxd5vb54_127.0.6516.1/127.0.6516.1_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/o2fhxdqyh73hnp7bo2oxd5vb54_127.0.6516.1/127.0.6516.1_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/o2fhxdqyh73hnp7bo2oxd5vb54_127.0.6516.1/127.0.6516.1_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/o2fhxdqyh73hnp7bo2oxd5vb54_127.0.6516.1/127.0.6516.1_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adxftmqiuonizwmudfnvr7m74zla_127.0.6517.0/127.0.6517.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adxftmqiuonizwmudfnvr7m74zla_127.0.6517.0/127.0.6517.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/adxftmqiuonizwmudfnvr7m74zla_127.0.6517.0/127.0.6517.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/adxftmqiuonizwmudfnvr7m74zla_127.0.6517.0/127.0.6517.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/adxftmqiuonizwmudfnvr7m74zla_127.0.6517.0/127.0.6517.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/adxftmqiuonizwmudfnvr7m74zla_127.0.6517.0/127.0.6517.0_chrome_installer.exe"
         ]
     }
 }
