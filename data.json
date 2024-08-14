@@ -84,17 +84,17 @@
         ]
     },
     "win_canary_x86": {
-        "version": "129.0.6655.1",
-        "size": 121504632,
-        "sha1": "aada98fc999c47e91dc56ac32356cafeb0a0c27d",
-        "sha256": "ea4711e2fed224aec2cdf8bb03a4416c416696c4789bf615f06888e11f62b0e1",
+        "version": "129.0.6656.0",
+        "size": 102963064,
+        "sha1": "bcf5372b23961c016434e35e86ba9766ca597754",
+        "sha256": "a80f7786728736ea2378605272d1e221876be0436dc8315b24be168351f90bc9",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/bfr47hqx4iwv4ml4xctc6h4k5m_129.0.6655.1/129.0.6655.1_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/bfr47hqx4iwv4ml4xctc6h4k5m_129.0.6655.1/129.0.6655.1_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/bfr47hqx4iwv4ml4xctc6h4k5m_129.0.6655.1/129.0.6655.1_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/bfr47hqx4iwv4ml4xctc6h4k5m_129.0.6655.1/129.0.6655.1_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/bfr47hqx4iwv4ml4xctc6h4k5m_129.0.6655.1/129.0.6655.1_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/bfr47hqx4iwv4ml4xctc6h4k5m_129.0.6655.1/129.0.6655.1_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acn2tjdkx2tbjfzwfucpt3rppswq_129.0.6656.0/129.0.6656.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acn2tjdkx2tbjfzwfucpt3rppswq_129.0.6656.0/129.0.6656.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/acn2tjdkx2tbjfzwfucpt3rppswq_129.0.6656.0/129.0.6656.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/acn2tjdkx2tbjfzwfucpt3rppswq_129.0.6656.0/129.0.6656.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/acn2tjdkx2tbjfzwfucpt3rppswq_129.0.6656.0/129.0.6656.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/acn2tjdkx2tbjfzwfucpt3rppswq_129.0.6656.0/129.0.6656.0_chrome_installer.exe"
         ]
     },
     "win_canary_x64": {
