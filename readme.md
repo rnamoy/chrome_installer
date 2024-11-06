@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2024-11-06 08:34:28 (UTC-4)
+2024-11-06 14:23:09 (UTC-4)
 
 
 ## 目录
@@ -28,16 +28,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acls6ht6xkxyme7kmypg2x2qa25a_130.0.6723.117/130.0.6723.117_chrome_installer.exe](https://dl.google.com/release2/chrome/acls6ht6xkxyme7kmypg2x2qa25a_130.0.6723.117/130.0.6723.117_chrome_installer.exe)  
 
 ## win beta x86
-**最新版本**：131.0.6778.24  
-**文件大小**：99.01 MB  
-**校验值（Sha256）**：3d73d799ce468294ab66e927c91d748219bfbea5004d8ff2c0c27fce4fc8bcf5  
-**下载链接**：[https://dl.google.com/release2/chrome/iwkllehf6gtjpfjs4c7iolue_131.0.6778.24/131.0.6778.24_chrome_installer.exe](https://dl.google.com/release2/chrome/iwkllehf6gtjpfjs4c7iolue_131.0.6778.24/131.0.6778.24_chrome_installer.exe)  
+**最新版本**：131.0.6778.33  
+**文件大小**：98.58 MB  
+**校验值（Sha256）**：533378d40e8d0aee351377ee4624138cc7d32fe99ceb4d5ebee41079de6e3cc9  
+**下载链接**：[https://dl.google.com/release2/chrome/aclnonvzcbbrdwcnpy4xlkc6ylda_131.0.6778.33/131.0.6778.33_chrome_installer.exe](https://dl.google.com/release2/chrome/aclnonvzcbbrdwcnpy4xlkc6ylda_131.0.6778.33/131.0.6778.33_chrome_installer.exe)  
 
 ## win beta x64
-**最新版本**：131.0.6778.24  
-**文件大小**：110.73 MB  
-**校验值（Sha256）**：a1b16315a74976e2b6d2302041e7233f379d731c5953a127ecb9147bf0923a89  
-**下载链接**：[https://dl.google.com/release2/chrome/ac5uirsxkz7fszw37tmmocrobwxq_131.0.6778.24/131.0.6778.24_chrome_installer.exe](https://dl.google.com/release2/chrome/ac5uirsxkz7fszw37tmmocrobwxq_131.0.6778.24/131.0.6778.24_chrome_installer.exe)  
+**最新版本**：131.0.6778.33  
+**文件大小**：110.77 MB  
+**校验值（Sha256）**：833a0b6340f71174873623e11041450c18af0c55b145b37be3e7dbfa5f616390  
+**下载链接**：[https://dl.google.com/release2/chrome/e23fthzpeohi4ijgxzucr4dkcm_131.0.6778.33/131.0.6778.33_chrome_installer.exe](https://dl.google.com/release2/chrome/e23fthzpeohi4ijgxzucr4dkcm_131.0.6778.33/131.0.6778.33_chrome_installer.exe)  
 
 ## win dev x86
 **最新版本**：132.0.6811.2  
