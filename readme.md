@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2025-01-26 08:29:53 (UTC-4)
+2025-01-26 14:21:18 (UTC-4)
 
 
 ## 目录
@@ -58,8 +58,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ascqv2epfscuij2v7qlub2gtma_134.0.6980.0/134.0.6980.0_chrome_installer.exe](https://dl.google.com/release2/chrome/ascqv2epfscuij2v7qlub2gtma_134.0.6980.0/134.0.6980.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：134.0.6980.0  
-**文件大小**：114.17 MB  
-**校验值（Sha256）**：60627f91e8b511db175a2f6fb4779aefe64fa4c9c60334ce98cf756df9518c2f  
-**下载链接**：[https://dl.google.com/release2/chrome/ary5m2pco6nbw44cde5k6hp2hu_134.0.6980.0/134.0.6980.0_chrome_installer.exe](https://dl.google.com/release2/chrome/ary5m2pco6nbw44cde5k6hp2hu_134.0.6980.0/134.0.6980.0_chrome_installer.exe)  
+**最新版本**：134.0.6980.1  
+**文件大小**：149.06 MB  
+**校验值（Sha256）**：6447dd50fe6e45a7483c246346bf0daffca21ae6136447ed83ac7b967e47a369  
+**下载链接**：[https://dl.google.com/release2/chrome/acmoktyimagrwxtrs7iluoxenteq_134.0.6980.1/134.0.6980.1_chrome_installer.exe](https://dl.google.com/release2/chrome/acmoktyimagrwxtrs7iluoxenteq_134.0.6980.1/134.0.6980.1_chrome_installer.exe)  
 

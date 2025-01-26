@@ -98,17 +98,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "134.0.6980.0",
-        "size": 119712112,
-        "sha1": "515c3524e123287f7728b15c4dd0fcaca7e972a1",
-        "sha256": "60627f91e8b511db175a2f6fb4779aefe64fa4c9c60334ce98cf756df9518c2f",
+        "version": "134.0.6980.1",
+        "size": 156300144,
+        "sha1": "c63c3eed66705b80697ef74c99b6264d3544d7e9",
+        "sha256": "6447dd50fe6e45a7483c246346bf0daffca21ae6136447ed83ac7b967e47a369",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ary5m2pco6nbw44cde5k6hp2hu_134.0.6980.0/134.0.6980.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ary5m2pco6nbw44cde5k6hp2hu_134.0.6980.0/134.0.6980.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/ary5m2pco6nbw44cde5k6hp2hu_134.0.6980.0/134.0.6980.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/ary5m2pco6nbw44cde5k6hp2hu_134.0.6980.0/134.0.6980.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/ary5m2pco6nbw44cde5k6hp2hu_134.0.6980.0/134.0.6980.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/ary5m2pco6nbw44cde5k6hp2hu_134.0.6980.0/134.0.6980.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acmoktyimagrwxtrs7iluoxenteq_134.0.6980.1/134.0.6980.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acmoktyimagrwxtrs7iluoxenteq_134.0.6980.1/134.0.6980.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/acmoktyimagrwxtrs7iluoxenteq_134.0.6980.1/134.0.6980.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/acmoktyimagrwxtrs7iluoxenteq_134.0.6980.1/134.0.6980.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/acmoktyimagrwxtrs7iluoxenteq_134.0.6980.1/134.0.6980.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/acmoktyimagrwxtrs7iluoxenteq_134.0.6980.1/134.0.6980.1_chrome_installer.exe"
         ]
     }
 }
