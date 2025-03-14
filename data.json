@@ -84,17 +84,17 @@
         ]
     },
     "win_canary_x86": {
-        "version": "136.0.7067.1",
-        "size": 127357808,
-        "sha1": "dfa2201f9392f84d840c3578e2c51bc9543f2f32",
-        "sha256": "69e0f28240f9cf192b822780aa51b991d6f209c17ba5fe6db44c96d6da0281ab",
+        "version": "136.0.7067.2",
+        "size": 108174704,
+        "sha1": "cf0bf3c2b4f3fb632f84a4e4ff3b418c62edf4ea",
+        "sha256": "654fbeb4615cd9b99ea98d19dba56ea110ec278d285cdb8519d402f291d9a4cd",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/addis3odwkmremou32xe2v5xubsq_136.0.7067.1/136.0.7067.1_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/addis3odwkmremou32xe2v5xubsq_136.0.7067.1/136.0.7067.1_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/addis3odwkmremou32xe2v5xubsq_136.0.7067.1/136.0.7067.1_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/addis3odwkmremou32xe2v5xubsq_136.0.7067.1/136.0.7067.1_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/addis3odwkmremou32xe2v5xubsq_136.0.7067.1/136.0.7067.1_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/addis3odwkmremou32xe2v5xubsq_136.0.7067.1/136.0.7067.1_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/orjewbgzipydbyggal42mpyxre_136.0.7067.2/136.0.7067.2_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/orjewbgzipydbyggal42mpyxre_136.0.7067.2/136.0.7067.2_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/orjewbgzipydbyggal42mpyxre_136.0.7067.2/136.0.7067.2_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/orjewbgzipydbyggal42mpyxre_136.0.7067.2/136.0.7067.2_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/orjewbgzipydbyggal42mpyxre_136.0.7067.2/136.0.7067.2_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/orjewbgzipydbyggal42mpyxre_136.0.7067.2/136.0.7067.2_chrome_installer.exe"
         ]
     },
     "win_canary_x64": {
