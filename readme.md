@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2025-03-26 08:37:10 (UTC-4)
+2025-03-26 14:26:20 (UTC-4)
 
 
 ## 目录
@@ -28,16 +28,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/mqwvms2ws2nu7gmt6jd3ofxp7u_134.0.6998.178/134.0.6998.178_chrome_installer.exe](https://dl.google.com/release2/chrome/mqwvms2ws2nu7gmt6jd3ofxp7u_134.0.6998.178/134.0.6998.178_chrome_installer.exe)  
 
 ## win beta x86
-**最新版本**：135.0.7049.28  
-**文件大小**：102.53 MB  
-**校验值（Sha256）**：b40d232659b78c4c73f8766fc351f224163d1a2f763312bad78dd79e23b55cba  
-**下载链接**：[https://dl.google.com/release2/chrome/lb4hcmxgnapu2ockzjpxf56eca_135.0.7049.28/135.0.7049.28_chrome_installer.exe](https://dl.google.com/release2/chrome/lb4hcmxgnapu2ockzjpxf56eca_135.0.7049.28/135.0.7049.28_chrome_installer.exe)  
+**最新版本**：135.0.7049.41  
+**文件大小**：102.57 MB  
+**校验值（Sha256）**：b6d793fe4f576e84a41dec4e4cba186fe45c6526d5b9c09fc01483e9ca979c6c  
+**下载链接**：[https://dl.google.com/release2/chrome/fq3u4agdjbanmt2iotkjprxxrm_135.0.7049.41/135.0.7049.41_chrome_installer.exe](https://dl.google.com/release2/chrome/fq3u4agdjbanmt2iotkjprxxrm_135.0.7049.41/135.0.7049.41_chrome_installer.exe)  
 
 ## win beta x64
-**最新版本**：135.0.7049.28  
-**文件大小**：114.62 MB  
-**校验值（Sha256）**：6fe3bc690af91e10d3582332f55cea9c1c80306590857f6c3110cfa1b14e456c  
-**下载链接**：[https://dl.google.com/release2/chrome/kcvdpoasxzpbw6o6hx4lxg34iu_135.0.7049.28/135.0.7049.28_chrome_installer.exe](https://dl.google.com/release2/chrome/kcvdpoasxzpbw6o6hx4lxg34iu_135.0.7049.28/135.0.7049.28_chrome_installer.exe)  
+**最新版本**：135.0.7049.41  
+**文件大小**：114.82 MB  
+**校验值（Sha256）**：681c1d924324e9a7e0fa3c5855a7c3327e934a097d64457a4181fc79d7be9446  
+**下载链接**：[https://dl.google.com/release2/chrome/bcgowl2ukpimip66gc3psg6l64_135.0.7049.41/135.0.7049.41_chrome_installer.exe](https://dl.google.com/release2/chrome/bcgowl2ukpimip66gc3psg6l64_135.0.7049.41/135.0.7049.41_chrome_installer.exe)  
 
 ## win dev x86
 **最新版本**：136.0.7064.0  
