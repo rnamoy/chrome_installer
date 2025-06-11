@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2025-06-10 14:28:22 (UTC-4)
+2025-06-10 21:43:10 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acsefw26z54iukvox5qxjwoq4zqa_139.0.7219.4/139.0.7219.4_chrome_installer.exe](https://dl.google.com/release2/chrome/acsefw26z54iukvox5qxjwoq4zqa_139.0.7219.4/139.0.7219.4_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：139.0.7230.0  
-**文件大小**：333.24 MB  
-**校验值（Sha256）**：5eb1f9d80eb28409979a451d3c66ac6ea4967e46d7e3d5a85c62d990a2c4c15e  
-**下载链接**：[https://dl.google.com/release2/chrome/ad2lmq4i6cvitya6io7lmdulw6eq_139.0.7230.0/139.0.7230.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad2lmq4i6cvitya6io7lmdulw6eq_139.0.7230.0/139.0.7230.0_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7231.0  
+**文件大小**：333.89 MB  
+**校验值（Sha256）**：2e5f63400863d8891a004b2932dffb168307f42c7f202f132d4c8295f8dddb53  
+**下载链接**：[https://dl.google.com/release2/chrome/acj6p47fkj3ktodfkpwg5pulxuyq_139.0.7231.0/139.0.7231.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acj6p47fkj3ktodfkpwg5pulxuyq_139.0.7231.0/139.0.7231.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：139.0.7230.0  
-**文件大小**：405.33 MB  
-**校验值（Sha256）**：cdac8187dfe04381dcf2d5c5196898f390efd4be16baba16de0d3de01d2c45de  
-**下载链接**：[https://dl.google.com/release2/chrome/acnynpfbsz2izelbr2fnoclm25ca_139.0.7230.0/139.0.7230.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acnynpfbsz2izelbr2fnoclm25ca_139.0.7230.0/139.0.7230.0_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7231.0  
+**文件大小**：405.94 MB  
+**校验值（Sha256）**：15c858ca048e4957a7723aef5d3d66c608b43fecf4a88fe9c646bc2acdd5f1e5  
+**下载链接**：[https://dl.google.com/release2/chrome/eglkm4bjbrenpk2hso4gvhihv4_139.0.7231.0/139.0.7231.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/eglkm4bjbrenpk2hso4gvhihv4_139.0.7231.0/139.0.7231.0_chrome_installer_uncompressed.exe)  
 
