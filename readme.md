@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2025-06-18 08:41:53 (UTC-4)
+2025-06-18 14:28:39 (UTC-4)
 
 
 ## 目录
@@ -28,16 +28,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/fso2u5tvxnf2tmkcnbcfn4zchq_137.0.7151.120/137.0.7151.120_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/fso2u5tvxnf2tmkcnbcfn4zchq_137.0.7151.120/137.0.7151.120_chrome_installer_uncompressed.exe)  
 
 ## win beta x86
-**最新版本**：138.0.7204.23  
-**文件大小**：104.67 MB  
-**校验值（Sha256）**：53be84044d29cae23c565e1fcc49446820ddce8c1a62521ac4a95a85378adc92  
-**下载链接**：[https://dl.google.com/release2/chrome/ad7dbtlamfjzdvkp5fepxn3lpmva_138.0.7204.23/138.0.7204.23_chrome_installer.exe](https://dl.google.com/release2/chrome/ad7dbtlamfjzdvkp5fepxn3lpmva_138.0.7204.23/138.0.7204.23_chrome_installer.exe)  
+**最新版本**：138.0.7204.35  
+**文件大小**：330.85 MB  
+**校验值（Sha256）**：25bb814cbd28f76cef342a94666682dd07d5624d9f9b6e978c1cb65343d343fa  
+**下载链接**：[https://dl.google.com/release2/chrome/acrcfsb3gpxu7z7hx4nfczynth3q_138.0.7204.35/138.0.7204.35_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acrcfsb3gpxu7z7hx4nfczynth3q_138.0.7204.35/138.0.7204.35_chrome_installer_uncompressed.exe)  
 
 ## win beta x64
-**最新版本**：138.0.7204.23  
-**文件大小**：117.46 MB  
-**校验值（Sha256）**：52fc58e6a411fad24d549ee4c80a5018714ae9e824b8db8c87dadac5cec4c024  
-**下载链接**：[https://dl.google.com/release2/chrome/ac4hgxovvzkx7okqr3tc4lu6n5wa_138.0.7204.23/138.0.7204.23_chrome_installer.exe](https://dl.google.com/release2/chrome/ac4hgxovvzkx7okqr3tc4lu6n5wa_138.0.7204.23/138.0.7204.23_chrome_installer.exe)  
+**最新版本**：138.0.7204.35  
+**文件大小**：402.78 MB  
+**校验值（Sha256）**：3d16a1e0237c806a376355f59c759263538cc2addd9592cf54e9d2c32f71e9b9  
+**下载链接**：[https://dl.google.com/release2/chrome/oibfro54kn72m2sumr5y4h4js4_138.0.7204.35/138.0.7204.35_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/oibfro54kn72m2sumr5y4h4js4_138.0.7204.35/138.0.7204.35_chrome_installer_uncompressed.exe)  
 
 ## win dev x86
 **最新版本**：139.0.7232.3  
