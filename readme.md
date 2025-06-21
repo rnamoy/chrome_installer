@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2025-06-21 08:37:21 (UTC-4)
+2025-06-21 14:25:38 (UTC-4)
 
 
 ## 目录
@@ -52,10 +52,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/cefiufctqup7ot7bijmemcw3ju_139.0.7246.0/139.0.7246.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/cefiufctqup7ot7bijmemcw3ju_139.0.7246.0/139.0.7246.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：139.0.7252.0  
-**文件大小**：333.77 MB  
-**校验值（Sha256）**：71a2e2b0de40aaf0e3fbebe24de29a78aa15111055c87d52b93e7f760328d557  
-**下载链接**：[https://dl.google.com/release2/chrome/c3oggii3x3zylms4vpvp6otidm_139.0.7252.0/139.0.7252.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/c3oggii3x3zylms4vpvp6otidm_139.0.7252.0/139.0.7252.0_chrome_installer_uncompressed.exe)  
+**最新版本**：139.0.7252.1  
+**文件大小**：496.66 MB  
+**校验值（Sha256）**：5e09aea08b06a1c4ef7e717e8930cfb9b85e444204fca296442e5b2e06581520  
+**下载链接**：[https://dl.google.com/release2/chrome/adstvmnskxp4ifazsb4imo4rwxla_139.0.7252.1/139.0.7252.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adstvmnskxp4ifazsb4imo4rwxla_139.0.7252.1/139.0.7252.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：139.0.7252.0  
