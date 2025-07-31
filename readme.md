@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2025-07-31 08:44:41 (UTC-4)
+2025-07-31 14:32:21 (UTC-4)
 
 
 ## 目录
@@ -40,16 +40,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/pggsb2fl4sexcvcwlymwq6dysa_139.0.7258.66/139.0.7258.66_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/pggsb2fl4sexcvcwlymwq6dysa_139.0.7258.66/139.0.7258.66_chrome_installer_uncompressed.exe)  
 
 ## win dev x86
-**最新版本**：140.0.7312.0  
-**文件大小**：342.09 MB  
-**校验值（Sha256）**：57f6585d6894fdf7a4450d908a5c9bf3c86ddae5fa59302360bf2f73ac61f931  
-**下载链接**：[https://dl.google.com/release2/chrome/dydfgu6s6wlcduq4fcrt7rd6he_140.0.7312.0/140.0.7312.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dydfgu6s6wlcduq4fcrt7rd6he_140.0.7312.0/140.0.7312.0_chrome_installer_uncompressed.exe)  
+**最新版本**：140.0.7327.6  
+**文件大小**：343.37 MB  
+**校验值（Sha256）**：3ac0d725ffa7c56394b12e3844096a5e50871a22277f9bb3eef0b67baa1f158b  
+**下载链接**：[https://dl.google.com/release2/chrome/cyipplxkdnfock5jngx5h26sqa_140.0.7327.6/140.0.7327.6_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/cyipplxkdnfock5jngx5h26sqa_140.0.7327.6/140.0.7327.6_chrome_installer_uncompressed.exe)  
 
 ## win dev x64
-**最新版本**：140.0.7312.0  
-**文件大小**：413.79 MB  
-**校验值（Sha256）**：55540645f17e63178965c915858eb8c641cd8b15d1e28e66a0a6e065fdb2a214  
-**下载链接**：[https://dl.google.com/release2/chrome/gdzkhiotbkyhion7sdary2fbxi_140.0.7312.0/140.0.7312.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/gdzkhiotbkyhion7sdary2fbxi_140.0.7312.0/140.0.7312.0_chrome_installer_uncompressed.exe)  
+**最新版本**：140.0.7327.6  
+**文件大小**：413.86 MB  
+**校验值（Sha256）**：f6a2da84c5e88a43a8ed32b2616127e65dd49fda70ae4c97157d1945677bab74  
+**下载链接**：[https://dl.google.com/release2/chrome/aduax723jy2rwljqfgwp4xon3mda_140.0.7327.6/140.0.7327.6_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/aduax723jy2rwljqfgwp4xon3mda_140.0.7327.6/140.0.7327.6_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
 **最新版本**：140.0.7329.0  
