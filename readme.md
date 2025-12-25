@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2025-12-25 02:34:30 (UTC-4)
+2025-12-25 08:42:56 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/dgdjjixyvljetwpu4uljiaca2a_145.0.7587.5/145.0.7587.5_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dgdjjixyvljetwpu4uljiaca2a_145.0.7587.5/145.0.7587.5_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：145.0.7597.0  
-**文件大小**：352.76 MB  
-**校验值（Sha256）**：280b35777279d34ed23e2800bee548cf162fa1790b99d288feb6d03a92844800  
-**下载链接**：[https://dl.google.com/release2/chrome/o7ylrqergy3nje2gdy277yk34e_145.0.7597.0/145.0.7597.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/o7ylrqergy3nje2gdy277yk34e_145.0.7597.0/145.0.7597.0_chrome_installer_uncompressed.exe)  
+**最新版本**：145.0.7598.0  
+**文件大小**：353.72 MB  
+**校验值（Sha256）**：508d95193bffa4dd84e52955eb21fd0a9e036a7f4c0bf94f64ae10d471033cf2  
+**下载链接**：[https://dl.google.com/release2/chrome/glrpfcgppx7n4lmrphj3gpgt7q_145.0.7598.0/145.0.7598.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/glrpfcgppx7n4lmrphj3gpgt7q_145.0.7598.0/145.0.7598.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：145.0.7597.0  
-**文件大小**：429.55 MB  
-**校验值（Sha256）**：815eba63340be02cd99c228f879accbadca3f34e394e2c81164856714e822545  
-**下载链接**：[https://dl.google.com/release2/chrome/ap7h7rlj357efokgvu3hryibim_145.0.7597.0/145.0.7597.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ap7h7rlj357efokgvu3hryibim_145.0.7597.0/145.0.7597.0_chrome_installer_uncompressed.exe)  
+**最新版本**：145.0.7598.0  
+**文件大小**：428.73 MB  
+**校验值（Sha256）**：fdecbae76d123c4c6e97fbad2045488c5c19284fb86a4c0bef4698ef16c542ae  
+**下载链接**：[https://dl.google.com/release2/chrome/dwu2vfdlgtkpgaiexxj4xyvny4_145.0.7598.0/145.0.7598.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dwu2vfdlgtkpgaiexxj4xyvny4_145.0.7598.0/145.0.7598.0_chrome_installer_uncompressed.exe)  
 
