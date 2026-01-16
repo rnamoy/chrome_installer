@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-01-16 02:35:31 (UTC-4)
+2026-01-16 08:47:53 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/c42kdqpitut7nvibhev3egvbli_145.0.7620.3/145.0.7620.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/c42kdqpitut7nvibhev3egvbli_145.0.7620.3/145.0.7620.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：146.0.7636.0  
-**文件大小**：359.1 MB  
-**校验值（Sha256）**：3b15472e2ef57d3f9f9d487597dbd067e1bc36e4f63c34bc2dbd966df16fcd66  
-**下载链接**：[https://dl.google.com/release2/chrome/pdlyuxdaiqetm75bq7ky4ikgwe_146.0.7636.0/146.0.7636.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/pdlyuxdaiqetm75bq7ky4ikgwe_146.0.7636.0/146.0.7636.0_chrome_installer_uncompressed.exe)  
+**最新版本**：146.0.7637.0  
+**文件大小**：358.99 MB  
+**校验值（Sha256）**：95998654e4f17a92c4aea0229c9508892fbb02aa075742c9e2702f4562ed3a5c  
+**下载链接**：[https://dl.google.com/release2/chrome/acdfbqlnyg6xwkhoa4z2gtv5rjiq_146.0.7637.0/146.0.7637.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acdfbqlnyg6xwkhoa4z2gtv5rjiq_146.0.7637.0/146.0.7637.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：146.0.7636.0  
-**文件大小**：438.1 MB  
-**校验值（Sha256）**：dd05a5fa7a88cbadc8c3ac400726b84c853074af84fd5e83adf99c01a9e8f05f  
-**下载链接**：[https://dl.google.com/release2/chrome/dpxpayoumqsjgp2ictrk6ey5zm_146.0.7636.0/146.0.7636.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dpxpayoumqsjgp2ictrk6ey5zm_146.0.7636.0/146.0.7636.0_chrome_installer_uncompressed.exe)  
+**最新版本**：146.0.7637.0  
+**文件大小**：439.21 MB  
+**校验值（Sha256）**：7e501d212ca8f5692c686728dc3cc0ae017a374061d2f004ae307b48691bca3c  
+**下载链接**：[https://dl.google.com/release2/chrome/acbjqsnsahrgvtniyxnwfy3edzla_146.0.7637.0/146.0.7637.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acbjqsnsahrgvtniyxnwfy3edzla_146.0.7637.0/146.0.7637.0_chrome_installer_uncompressed.exe)  
 
