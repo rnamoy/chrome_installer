@@ -84,17 +84,17 @@
         ]
     },
     "win_canary_x86": {
-        "version": "146.0.7668.0",
-        "size": 382185896,
-        "sha1": "1ff67435ee585076957fcd2d72424eeb67afe5bf",
-        "sha256": "54c5bde7e2dfdf582101ad28f45e67a5c6831a19473afe41e150df8d5ac8606e",
+        "version": "146.0.7668.2",
+        "size": 573690792,
+        "sha1": "1f2deeae06d7577127636566ce9f0a8bf5dbce7a",
+        "sha256": "9228e3bcdb13426deef952ca5b7294790aa0ea2cf099a87e697a2937dde38f4d",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acoheir3ha7ozyxwzbbuh2cswfga_146.0.7668.0/146.0.7668.0_chrome_installer_uncompressed.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acoheir3ha7ozyxwzbbuh2cswfga_146.0.7668.0/146.0.7668.0_chrome_installer_uncompressed.exe",
-            "http://dl.google.com/release2/chrome/acoheir3ha7ozyxwzbbuh2cswfga_146.0.7668.0/146.0.7668.0_chrome_installer_uncompressed.exe",
-            "https://dl.google.com/release2/chrome/acoheir3ha7ozyxwzbbuh2cswfga_146.0.7668.0/146.0.7668.0_chrome_installer_uncompressed.exe",
-            "http://www.google.com/dl/release2/chrome/acoheir3ha7ozyxwzbbuh2cswfga_146.0.7668.0/146.0.7668.0_chrome_installer_uncompressed.exe",
-            "https://www.google.com/dl/release2/chrome/acoheir3ha7ozyxwzbbuh2cswfga_146.0.7668.0/146.0.7668.0_chrome_installer_uncompressed.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adtivlgovctcp2w6vjcrcviso3ba_146.0.7668.2/146.0.7668.2_chrome_installer_uncompressed.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adtivlgovctcp2w6vjcrcviso3ba_146.0.7668.2/146.0.7668.2_chrome_installer_uncompressed.exe",
+            "http://dl.google.com/release2/chrome/adtivlgovctcp2w6vjcrcviso3ba_146.0.7668.2/146.0.7668.2_chrome_installer_uncompressed.exe",
+            "https://dl.google.com/release2/chrome/adtivlgovctcp2w6vjcrcviso3ba_146.0.7668.2/146.0.7668.2_chrome_installer_uncompressed.exe",
+            "http://www.google.com/dl/release2/chrome/adtivlgovctcp2w6vjcrcviso3ba_146.0.7668.2/146.0.7668.2_chrome_installer_uncompressed.exe",
+            "https://www.google.com/dl/release2/chrome/adtivlgovctcp2w6vjcrcviso3ba_146.0.7668.2/146.0.7668.2_chrome_installer_uncompressed.exe"
         ]
     },
     "win_canary_x64": {
