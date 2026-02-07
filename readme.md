@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-02-07 02:42:55 (UTC-4)
+2026-02-07 08:51:25 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ad3cg43b3e5pihhmybmiwpqviqxa_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad3cg43b3e5pihhmybmiwpqviqxa_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：146.0.7673.0  
-**文件大小**：364.47 MB  
-**校验值（Sha256）**：af8fbcac9b535bd50601cf4ee8a180c58a24b2d6117cd72e174a024d0449275b  
-**下载链接**：[https://dl.google.com/release2/chrome/ip5xooipdiav5lwe3lz2rs72vu_146.0.7673.0/146.0.7673.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ip5xooipdiav5lwe3lz2rs72vu_146.0.7673.0/146.0.7673.0_chrome_installer_uncompressed.exe)  
+**最新版本**：146.0.7674.0  
+**文件大小**：367.2 MB  
+**校验值（Sha256）**：2c131f6cfa5072177ba98d9cbba2b9ae2daef83b2caa183e84c5da374bde00a2  
+**下载链接**：[https://dl.google.com/release2/chrome/i5ulsorum7vrzwdu63mjlo3ks4_146.0.7674.0/146.0.7674.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/i5ulsorum7vrzwdu63mjlo3ks4_146.0.7674.0/146.0.7674.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：146.0.7673.0  
-**文件大小**：446.61 MB  
-**校验值（Sha256）**：62de51bd0cf3610ba6dbfae09b7f17e58c4a624c946845c0f51725624f24878b  
-**下载链接**：[https://dl.google.com/release2/chrome/ac7olbnkqrthjsdi26m6qzm7hi_146.0.7673.0/146.0.7673.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac7olbnkqrthjsdi26m6qzm7hi_146.0.7673.0/146.0.7673.0_chrome_installer_uncompressed.exe)  
+**最新版本**：146.0.7674.0  
+**文件大小**：445.75 MB  
+**校验值（Sha256）**：8805d40307d7fadb5306f778d912e719b9b851edd9e47912510e779101adb878  
+**下载链接**：[https://dl.google.com/release2/chrome/acr4mhh4nqydxw264c5jkdscywzq_146.0.7674.0/146.0.7674.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acr4mhh4nqydxw264c5jkdscywzq_146.0.7674.0/146.0.7674.0_chrome_installer_uncompressed.exe)  
 
