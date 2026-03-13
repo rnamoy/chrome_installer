@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-03-13 09:00:38 (UTC-4)
+2026-03-13 14:43:28 (UTC-4)
 
 
 ## 目录
@@ -40,16 +40,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/fzr7l3t5mkjcceys7kmmmhdzyq_147.0.7727.3/147.0.7727.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/fzr7l3t5mkjcceys7kmmmhdzyq_147.0.7727.3/147.0.7727.3_chrome_installer_uncompressed.exe)  
 
 ## win dev x86
-**最新版本**：147.0.7719.3  
-**文件大小**：364.49 MB  
-**校验值（Sha256）**：85e796a83f6eb09b9572d0f734b4ae30f1a75638ac42647ff3fbb93956c82811  
-**下载链接**：[https://dl.google.com/release2/chrome/adyzt6mqhuqrn7wpmcy6cfp4qx6q_147.0.7719.3/147.0.7719.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adyzt6mqhuqrn7wpmcy6cfp4qx6q_147.0.7719.3/147.0.7719.3_chrome_installer_uncompressed.exe)  
+**最新版本**：148.0.7730.2  
+**文件大小**：365.37 MB  
+**校验值（Sha256）**：2a31250264cadbffa8abb0fe9c688f0bc6161172f201ef03030a3554ca551974  
+**下载链接**：[https://dl.google.com/release2/chrome/grpv6hgdoegvso7kkx7avdzi2a_148.0.7730.2/148.0.7730.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/grpv6hgdoegvso7kkx7avdzi2a_148.0.7730.2/148.0.7730.2_chrome_installer_uncompressed.exe)  
 
 ## win dev x64
-**最新版本**：147.0.7719.3  
-**文件大小**：446.82 MB  
-**校验值（Sha256）**：9f87d20e44956aa34daa089c3e453a275bde141b615c9e9e45ff4a574a490068  
-**下载链接**：[https://dl.google.com/release2/chrome/avxf3clriczgrx4zivugp7yoiq_147.0.7719.3/147.0.7719.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/avxf3clriczgrx4zivugp7yoiq_147.0.7719.3/147.0.7719.3_chrome_installer_uncompressed.exe)  
+**最新版本**：148.0.7730.2  
+**文件大小**：447.54 MB  
+**校验值（Sha256）**：aef987e58459c6505369afbb658fd5bad5eeba8f0ae2ffb441a93e073bd1987a  
+**下载链接**：[https://dl.google.com/release2/chrome/efornplmre45qqjvplsdsknzuq_148.0.7730.2/148.0.7730.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/efornplmre45qqjvplsdsknzuq_148.0.7730.2/148.0.7730.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
 **最新版本**：148.0.7732.0  
