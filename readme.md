@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-03-28 08:57:21 (UTC-4)
+2026-03-28 14:41:36 (UTC-4)
 
 
 ## 目录
@@ -52,10 +52,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adw6fsr3m5qnsz6wtx6m5acdah6a_148.0.7753.0/148.0.7753.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adw6fsr3m5qnsz6wtx6m5acdah6a_148.0.7753.0/148.0.7753.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：148.0.7759.0  
-**文件大小**：368.63 MB  
-**校验值（Sha256）**：28632aafda4fb3e264deec17b85dec983e7e00ec6bc47e159ac0b07245d0cad8  
-**下载链接**：[https://dl.google.com/release2/chrome/ekxedomurhz5mimvg4lcub6s5a_148.0.7759.0/148.0.7759.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ekxedomurhz5mimvg4lcub6s5a_148.0.7759.0/148.0.7759.0_chrome_installer_uncompressed.exe)  
+**最新版本**：148.0.7759.1  
+**文件大小**：558.69 MB  
+**校验值（Sha256）**：799150a8abe588d97c2f33561f2772c07cdd212b7ea0be669db8995efdbe66c3  
+**下载链接**：[https://dl.google.com/release2/chrome/idyvbu2xpdfnpousaeksm5lxje_148.0.7759.1/148.0.7759.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/idyvbu2xpdfnpousaeksm5lxje_148.0.7759.1/148.0.7759.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：148.0.7759.0  
