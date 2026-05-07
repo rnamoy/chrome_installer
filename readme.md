@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-05-07 04:34:09 (UTC-4)
+2026-05-07 10:10:35 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/f7wnpyhunisisq6bg3zcx7c2g4_149.0.7815.2/149.0.7815.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/f7wnpyhunisisq6bg3zcx7c2g4_149.0.7815.2/149.0.7815.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：150.0.7829.0  
-**文件大小**：376.18 MB  
-**校验值（Sha256）**：ad5adf69f118569ebb9282d7211a962c7572161656f2831d100fb35ed86e2850  
-**下载链接**：[https://dl.google.com/release2/chrome/adkgldposmf76elaty2ay2sbealq_150.0.7829.0/150.0.7829.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adkgldposmf76elaty2ay2sbealq_150.0.7829.0/150.0.7829.0_chrome_installer_uncompressed.exe)  
+**最新版本**：150.0.7830.0  
+**文件大小**：374.67 MB  
+**校验值（Sha256）**：fcc5d82ab3148d661879c7ef2797aed92d1146def7b85344a5ef2cf0ec63fc3b  
+**下载链接**：[https://dl.google.com/release2/chrome/aqhsjb6jbzme56f63ijg3ffr6y_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/aqhsjb6jbzme56f63ijg3ffr6y_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：150.0.7830.0  
-**文件大小**：460.19 MB  
-**校验值（Sha256）**：0e54bb99fb4ecf19978742d4fb8b3386cc14721b48c7dc718f3abcb6eddccc6f  
-**下载链接**：[https://dl.google.com/release2/chrome/bvzqfmpek2jaao42dawm56mmya_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/bvzqfmpek2jaao42dawm56mmya_150.0.7830.0/150.0.7830.0_chrome_installer_uncompressed.exe)  
+**最新版本**：150.0.7830.1  
+**文件大小**：690.87 MB  
+**校验值（Sha256）**：891feddb7f04a3ef6e8879fcab4be1e5e2c46c75ae16e1b0b2219e155c33aa94  
+**下载链接**：[https://dl.google.com/release2/chrome/ackrwdboyewwfawy62xpenysl45a_150.0.7830.1/150.0.7830.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ackrwdboyewwfawy62xpenysl45a_150.0.7830.1/150.0.7830.1_chrome_installer_uncompressed.exe)  
 
