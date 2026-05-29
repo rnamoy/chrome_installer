@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-05-28 16:23:57 (UTC-4)
+2026-05-28 23:41:41 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ac3uco5k6kyzuqejs7c2outhqk2q_150.0.7846.4/150.0.7846.4_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac3uco5k6kyzuqejs7c2outhqk2q_150.0.7846.4/150.0.7846.4_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：150.0.7864.0  
-**文件大小**：381.45 MB  
-**校验值（Sha256）**：0187f683df66c1f87813b985b13e6e41fa6b5a6cca02d2ab02e846c4b532ff87  
-**下载链接**：[https://dl.google.com/release2/chrome/pqm4p24x43jmehgire5zxpptr4_150.0.7864.0/150.0.7864.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/pqm4p24x43jmehgire5zxpptr4_150.0.7864.0/150.0.7864.0_chrome_installer_uncompressed.exe)  
+**最新版本**：150.0.7864.2  
+**文件大小**：381.48 MB  
+**校验值（Sha256）**：d4e43347b016c965bc797406e3c907dccea68907bb852419b9995b6cb9bf5f4e  
+**下载链接**：[https://dl.google.com/release2/chrome/fxkvh2dhal3dcg4pw5a76tu4wu_150.0.7864.2/150.0.7864.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/fxkvh2dhal3dcg4pw5a76tu4wu_150.0.7864.2/150.0.7864.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：150.0.7864.0  
+**最新版本**：150.0.7864.2  
 **文件大小**：463.58 MB  
-**校验值（Sha256）**：0431979268588dfdef0f73b883db080ff9864451e73bbb9d7611b379ea94444f  
-**下载链接**：[https://dl.google.com/release2/chrome/h3mrweomsqcjadgefulx7taek4_150.0.7864.0/150.0.7864.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/h3mrweomsqcjadgefulx7taek4_150.0.7864.0/150.0.7864.0_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：54a65a8f6baa9fe1af27148dc1cb6265f8a4c91900f3c8ede9ff3dfb4afb1303  
+**下载链接**：[https://dl.google.com/release2/chrome/dwzwi35qf525fdhlufdkyhvyke_150.0.7864.2/150.0.7864.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dwzwi35qf525fdhlufdkyhvyke_150.0.7864.2/150.0.7864.2_chrome_installer_uncompressed.exe)  
 
