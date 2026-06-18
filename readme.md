@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-06-18 06:21:10 (UTC-4)
+2026-06-18 11:25:54 (UTC-4)
 
 
 ## 目录
@@ -40,16 +40,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adlp7q4plq3myqwjpi3jylrtov5a_150.0.7871.24/150.0.7871.24_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adlp7q4plq3myqwjpi3jylrtov5a_150.0.7871.24/150.0.7871.24_chrome_installer_uncompressed.exe)  
 
 ## win dev x86
-**最新版本**：151.0.7886.2  
-**文件大小**：380.49 MB  
-**校验值（Sha256）**：5948a799ce831e34465a6b9f2218f6f278cc213f27497483d9e3b9f9ca687a82  
-**下载链接**：[https://dl.google.com/release2/chrome/epkzrsjgwhfgs27a6uxl7krazi_151.0.7886.2/151.0.7886.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/epkzrsjgwhfgs27a6uxl7krazi_151.0.7886.2/151.0.7886.2_chrome_installer_uncompressed.exe)  
+**最新版本**：151.0.7896.2  
+**文件大小**：384.22 MB  
+**校验值（Sha256）**：3fbd773315c93a0f87a8bf3a248f2d76666251597efef07835f30c1c358da727  
+**下载链接**：[https://dl.google.com/release2/chrome/lwjxf4vgsh7hnxgnxzzwgjut2i_151.0.7896.2/151.0.7896.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/lwjxf4vgsh7hnxgnxzzwgjut2i_151.0.7896.2/151.0.7896.2_chrome_installer_uncompressed.exe)  
 
 ## win dev x64
-**最新版本**：151.0.7886.2  
-**文件大小**：466.66 MB  
-**校验值（Sha256）**：786a9e9d224137f9b7659a4ca6c2679880d4fb6487262303d4e61bb0f0f98c53  
-**下载链接**：[https://dl.google.com/release2/chrome/adyeitiphq4c6nqtnookcx7tzzsq_151.0.7886.2/151.0.7886.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adyeitiphq4c6nqtnookcx7tzzsq_151.0.7886.2/151.0.7886.2_chrome_installer_uncompressed.exe)  
+**最新版本**：151.0.7896.2  
+**文件大小**：471.72 MB  
+**校验值（Sha256）**：2df4953259854124e7fea255863cbc901ab75f694e9df0f02818d38ef9763f58  
+**下载链接**：[https://dl.google.com/release2/chrome/hwkgf54fspzmnk5blmjw3a2ziq_151.0.7896.2/151.0.7896.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/hwkgf54fspzmnk5blmjw3a2ziq_151.0.7896.2/151.0.7896.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
 **最新版本**：151.0.7898.0  
