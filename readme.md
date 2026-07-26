@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-07-26 09:22:48 (UTC-4)
+2026-07-26 15:10:53 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acivctdjd3mobh5upnqnxiqntydq_152.0.7967.2/152.0.7967.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acivctdjd3mobh5upnqnxiqntydq_152.0.7967.2/152.0.7967.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：152.0.7973.0  
+**最新版本**：152.0.7974.0  
 **文件大小**：402.12 MB  
-**校验值（Sha256）**：1abee42d579acd7f3938acfc5771a24429f66f1f2ce1b4bbde36d4bd51793c9a  
-**下载链接**：[https://dl.google.com/release2/chrome/acpxgytpvtan7bvvdy6o2lpdxcza_152.0.7973.0/152.0.7973.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acpxgytpvtan7bvvdy6o2lpdxcza_152.0.7973.0/152.0.7973.0_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：b7697183923d37404420bb83df4fb5953d7c8c33dc795a7a42c6a3584e7dec8c  
+**下载链接**：[https://dl.google.com/release2/chrome/fconzcrmzjmdkbt6rjg2nbsyxu_152.0.7974.0/152.0.7974.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/fconzcrmzjmdkbt6rjg2nbsyxu_152.0.7974.0/152.0.7974.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：152.0.7973.0  
-**文件大小**：491.9 MB  
-**校验值（Sha256）**：463fa089390243e7cdb8559c7ed18631df7a976c73809f009411b3284b17d3a8  
-**下载链接**：[https://dl.google.com/release2/chrome/acgo7hkfbiiafr32dcjfoldexfla_152.0.7973.0/152.0.7973.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acgo7hkfbiiafr32dcjfoldexfla_152.0.7973.0/152.0.7973.0_chrome_installer_uncompressed.exe)  
+**最新版本**：152.0.7974.0  
+**文件大小**：491.64 MB  
+**校验值（Sha256）**：2ba6b203c430404ce5a9909a5f548bff6d3f0da0e0811e5d5eac6bb1c66b263a  
+**下载链接**：[https://dl.google.com/release2/chrome/ad7re724bmgcu3ltyqepsocu72ga_152.0.7974.0/152.0.7974.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad7re724bmgcu3ltyqepsocu72ga_152.0.7974.0/152.0.7974.0_chrome_installer_uncompressed.exe)  
 
