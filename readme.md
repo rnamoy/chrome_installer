@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-07-31 22:50:13 (UTC-4)
+2026-08-01 04:20:53 (UTC-4)
 
 
 ## 目录
