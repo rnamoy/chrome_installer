@@ -1,4 +1,9 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
+
+<!-- hy-mt2-i18n:start -->
+**中文** · [English](./README_en.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
@@ -62,4 +67,3 @@
 **文件大小**：700.68 MB  
 **校验值（Sha256）**：ae1830339d3e61ef4f0727061e224d0cf688f73d324945e30e9967e31567a258  
 **下载链接**：[https://dl.google.com/release2/chrome/ackbdm3lf7z5nam52nf3pfj56uaa_153.0.7991.4/153.0.7991.4_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ackbdm3lf7z5nam52nf3pfj56uaa_153.0.7991.4/153.0.7991.4_chrome_installer_uncompressed.exe)  
-
