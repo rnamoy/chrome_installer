@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-08-19 08:46:29 (UTC-4)
+2026-08-19 14:34:55 (UTC-4)
 
 
 ## 目录
@@ -28,16 +28,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ad2ycppny3ajtdahzfuq7z7t5wsa_151.0.7922.170/151.0.7922.170_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad2ycppny3ajtdahzfuq7z7t5wsa_151.0.7922.170/151.0.7922.170_chrome_installer_uncompressed.exe)  
 
 ## win beta x86
-**最新版本**：152.0.7977.42  
-**文件大小**：402.55 MB  
-**校验值（Sha256）**：ec4e8bb7d9ea3d00ae7fb2843da0eb40caf22321efdc5bf6755369ceb9b24ba1  
-**下载链接**：[https://dl.google.com/release2/chrome/nqrxsp6l3tlmuelsmim6gwkjb4_152.0.7977.42/152.0.7977.42_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/nqrxsp6l3tlmuelsmim6gwkjb4_152.0.7977.42/152.0.7977.42_chrome_installer_uncompressed.exe)  
+**最新版本**：152.0.7977.54  
+**文件大小**：402.76 MB  
+**校验值（Sha256）**：7e8c0257f12bc04a2b90afa177467c7d308e4e900c6c543712adaa05f1511ece  
+**下载链接**：[https://dl.google.com/release2/chrome/acpo5ejvxcnmpyescucyelqbsafq_152.0.7977.54/152.0.7977.54_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acpo5ejvxcnmpyescucyelqbsafq_152.0.7977.54/152.0.7977.54_chrome_installer_uncompressed.exe)  
 
 ## win beta x64
-**最新版本**：152.0.7977.42  
-**文件大小**：492.2 MB  
-**校验值（Sha256）**：94fc987ca34a0168adde8da7f9284d8e0edc815f44f073b122eaf4d5b9e647e7  
-**下载链接**：[https://dl.google.com/release2/chrome/ackofktqmpvd7trtf2mgw62mh2fa_152.0.7977.42/152.0.7977.42_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ackofktqmpvd7trtf2mgw62mh2fa_152.0.7977.42/152.0.7977.42_chrome_installer_uncompressed.exe)  
+**最新版本**：152.0.7977.54  
+**文件大小**：492.31 MB  
+**校验值（Sha256）**：3d28693f4c0da0afd3d78c8d4ac75766c6473652c63a86f47ed7467bc36f8492  
+**下载链接**：[https://dl.google.com/release2/chrome/h4lf2a5dalhkqcxbeg4a6hnhfm_152.0.7977.54/152.0.7977.54_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/h4lf2a5dalhkqcxbeg4a6hnhfm_152.0.7977.54/152.0.7977.54_chrome_installer_uncompressed.exe)  
 
 ## win dev x86
 **最新版本**：153.0.8003.0  
