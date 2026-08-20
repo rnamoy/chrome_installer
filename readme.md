@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-08-19 21:14:12 (UTC-4)
+2026-08-20 02:44:53 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ac4vera2qs4oi3k2oitaxani2xca_153.0.8003.0/153.0.8003.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac4vera2qs4oi3k2oitaxani2xca_153.0.8003.0/153.0.8003.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：154.0.8011.0  
-**文件大小**：414.5 MB  
-**校验值（Sha256）**：c1ac75b1e866d5e7623fd433b4f2cd8228d712e3ed2eda82dff857edc720a3f2  
-**下载链接**：[https://dl.google.com/release2/chrome/adw7cuyapz3t2av32xynt4y5ogya_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adw7cuyapz3t2av32xynt4y5ogya_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe)  
+**最新版本**：154.0.8012.2  
+**文件大小**：414.07 MB  
+**校验值（Sha256）**：0e375c8fc9fd35bb41e66bfd29bbda6e2b32b2790fb7f303927543f5e7ab4188  
+**下载链接**：[https://dl.google.com/release2/chrome/ac65vjeqewo4tblwqabxa3qdjzba_154.0.8012.2/154.0.8012.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac65vjeqewo4tblwqabxa3qdjzba_154.0.8012.2/154.0.8012.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：154.0.8011.0  
-**文件大小**：496.18 MB  
-**校验值（Sha256）**：05c1f5abe9c5432d71def5c342d12767418849e294b5ef0bbfdf709b35fe96ed  
-**下载链接**：[https://dl.google.com/release2/chrome/acb76w2vl446o3345njl2qoz67ya_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acb76w2vl446o3345njl2qoz67ya_154.0.8011.0/154.0.8011.0_chrome_installer_uncompressed.exe)  
+**最新版本**：154.0.8012.2  
+**文件大小**：495.8 MB  
+**校验值（Sha256）**：b15379b89f034b7519a875ac825358906d0add9c857e1fb226b2868d6952c847  
+**下载链接**：[https://dl.google.com/release2/chrome/iazaqd7fyygq6fmgwmcr2pimai_154.0.8012.2/154.0.8012.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/iazaqd7fyygq6fmgwmcr2pimai_154.0.8012.2/154.0.8012.2_chrome_installer_uncompressed.exe)  
 
