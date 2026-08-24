@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-08-24 02:58:08 (UTC-4)
+2026-08-24 08:50:06 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/a4723qpdla6kqngmhfwwjmlmm4_154.0.8013.2/154.0.8013.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/a4723qpdla6kqngmhfwwjmlmm4_154.0.8013.2/154.0.8013.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：154.0.8020.2  
+**最新版本**：154.0.8021.0  
 **文件大小**：415.9 MB  
-**校验值（Sha256）**：416520dcdf81dd8041351eaae3c021b1222ea7478a1a8f283d4ea0add21d63c6  
-**下载链接**：[https://dl.google.com/release2/chrome/adrp6ily5qloe4qnxo4kyrmvrghq_154.0.8020.2/154.0.8020.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adrp6ily5qloe4qnxo4kyrmvrghq_154.0.8020.2/154.0.8020.2_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：b19024a7b8fad6cffd263336a891a9a3d1cdce4407762cee4979fb81b6d42fe5  
+**下载链接**：[https://dl.google.com/release2/chrome/ctk6m4tok63gvf4uyyyit4ms7u_154.0.8021.0/154.0.8021.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ctk6m4tok63gvf4uyyyit4ms7u_154.0.8021.0/154.0.8021.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：154.0.8020.2  
-**文件大小**：494.52 MB  
-**校验值（Sha256）**：847fd1279990f98fda55b13ae6d5d9c9768dc5311da40bbea3f4a273c10d304c  
-**下载链接**：[https://dl.google.com/release2/chrome/acpf4vvh6virmomlhh2hiqokrpcq_154.0.8020.2/154.0.8020.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acpf4vvh6virmomlhh2hiqokrpcq_154.0.8020.2/154.0.8020.2_chrome_installer_uncompressed.exe)  
+**最新版本**：154.0.8021.0  
+**文件大小**：494.51 MB  
+**校验值（Sha256）**：c7eebe80486bd475b00c742e1153cb7af97fd09dc95b222c7b726105bee3cfc3  
+**下载链接**：[https://dl.google.com/release2/chrome/advv3wckmk7d6oy73dd2z3syinja_154.0.8021.0/154.0.8021.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/advv3wckmk7d6oy73dd2z3syinja_154.0.8021.0/154.0.8021.0_chrome_installer_uncompressed.exe)  
 
